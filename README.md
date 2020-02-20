@@ -1,4 +1,4 @@
-#RSA-Programm zur Schluesselgenerierung und Ver- und Entschluesselung in Python zu Demozwecken
+# RSA-Programm zur Schluesselgenerierung und Ver- und Entschluesselung in Python zu Demozwecken
 
 Dieses kleine Python-Programm soll deutlich machen, wie die RSA-Chiffre funktioniert. Das Programm ist in der Lage
 
