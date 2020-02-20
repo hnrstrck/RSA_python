@@ -16,5 +16,5 @@ Das Programm wird mit dem Aufruf
 
 gestartet. 
 
-#### Disclaimer / Haftungsausschluss
+### Disclaimer / Haftungsausschluss
 Dies ist ein **Demo-Programm** und sollte nicht zur tatsächlichen Verschlüsselung sensibler Daten verwendet werden. Der Autor haftet für keine entstandenen Schäden.
